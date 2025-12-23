@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @BolajiTee
-- 👀 I’m interested in Data, Data Science and Data Analysis 
-- 🌱 I’m currently learning Python, SQL, and Excel
-- 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me : Twitter: @Bolajitunde__ Email: bolajitunde16@gmail.com
+## 👋 Hi, I’m Bolaji Tunde Ahmod (@BolajiTee)
 
-<!---
-BolajiTee/BolajiTee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m a Data Scientist, Data Analyst, and Machine Learning / Artificial Intelligence Engineer passionate about transforming raw data into actionable insights, intelligent systems, and real-world impact.
+- With a strong foundation in Python-driven analytics and machine learning, I design, build, and deploy data solutions that support data-informed decision-making, automation, and predictive intelligence across domains.
